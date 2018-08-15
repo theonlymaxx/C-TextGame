@@ -12,6 +12,7 @@ namespace Console
         {
             
             System.Console.WriteLine("Hello World");
+            System.Console.ReadLine();
         }
     }
 }
