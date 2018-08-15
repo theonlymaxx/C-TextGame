@@ -1,0 +1,7 @@
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\bin\Debug\Console.exe.config
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\bin\Debug\Console.exe
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\bin\Debug\Console.pdb
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\obj\Debug\Console.exe
+C:\Users\MaxxLaptop\Desktop\C#TextGame\C-TextGame\Console\Console\obj\Debug\Console.pdb
